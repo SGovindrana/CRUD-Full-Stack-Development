@@ -6,11 +6,20 @@ This is a simple basic CRUD (Create, Read, Update, Delete) full-stack project us
 This project demonstrates a basic full-stack application using Spring Boot for the backend, JPA (Hibernate) for database interactions, MySQL as the database, and Angular for the frontend. The application allows users to perform CRUD operations on a list of employees.
 
 ## Technologies Used
+- **Backend**: 
+  - Spring Boot 3.3.1
+  - Hibernate (JPA) 2.5.3
+  - Java 17
+- **Database**: 
+  - MySQL 8.0.27
+- **Frontend**: 
+  - Angular 14.2.0
+  - TypeScript 4.7.2
+  - HTML 5
+  - CSS 3
+- **Others**: 
+  - Maven 3.8.3 (for managing dependencies)
 
-- **Backend**: Spring Boot, Hibernate (JPA)
-- **Database**: MySQL
-- **Frontend**: Angular
-- **Others**: Maven (for managing dependencies)
 
 ## Features
 
@@ -20,7 +29,7 @@ This project demonstrates a basic full-stack application using Spring Boot for t
 - **Delete Employee**: Remove an employee from the list.
 
 ## Screenshot
-![Screenshot 2024-06-22 at 6 51 18 PM](https://github.com/SGovindrana/CRUD-Java-Full-Stack/assets/37614645/439ec63f-6113-490c-915e-80609705c522)
+![Screenshot 2024-06-22 at 7 03 11 PM](https://github.com/SGovindrana/CRUD-Full-Stack-Development/assets/37614645/b6ceb860-6604-44bd-ab2f-3d53ea9baaa7)
 
 
 ### Prerequisites
