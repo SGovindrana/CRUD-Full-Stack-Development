@@ -29,7 +29,7 @@ This project demonstrates a basic full-stack application using Spring Boot for t
 - **Delete Employee**: Remove an employee from the list.
 
 ## Screenshot
-![Screenshot 2024-06-22 at 7 03 11 PM](https://github.com/SGovindrana/CRUD-Full-Stack-Development/assets/37614645/b6ceb860-6604-44bd-ab2f-3d53ea9baaa7)
+![Screenshot 2024-06-22 at 7 29 44 PM](https://github.com/SGovindrana/CRUD-Full-Stack-Development/assets/37614645/8edc56c2-fcb3-49ef-9557-1a7c3eeafeeb)
 
 
 ### Prerequisites
