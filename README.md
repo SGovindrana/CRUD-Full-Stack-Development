@@ -1,5 +1,5 @@
 # CRUD-Full-Stack-Development
-This is a simple basic CRUD (Create, Read, Update, Delete) full-stack project using Spring Boot, JPA (Hibernate), MySQL, and Angular. The project allows users to manage a list of employees, where they can create, add, update, and delete employee information.
+This is a basic CRUD (Create, Read, Update, Delete) full-stack project using Spring Boot, JPA (Hibernate), MySQL, and Angular. The project allows users to manage a list of employees, where they can create, add, update, and delete employee information.
 
 ## Introduction
 
